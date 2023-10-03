@@ -45,7 +45,7 @@
             android:layout_height="80dp"
             android:gravity="center|end"
             android:hint="History"
-            android:textSize="30sp" />
+            android:textSize="28sp" />
 
         <TextView
             android:id="@+id/textviewResult"
@@ -53,7 +53,7 @@
             android:layout_height="80dp"
             android:gravity="center|end"
             android:hint="Result"
-            android:textSize="30sp" />
+            android:textSize="28sp" />
 
     </LinearLayout>
 
