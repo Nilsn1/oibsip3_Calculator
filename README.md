@@ -1,4 +1,4 @@
-# oibsip3_Calculator
+# Calculator
 
 ![App Screenshot](https://nilsn1.github.io/oibsip3_Calculator/app/src/main/res/drawable/logo.png)
 
