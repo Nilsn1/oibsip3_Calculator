@@ -23,7 +23,7 @@ Welcome to the oibsip3_Calculator Android App repository! The Calculator App is 
 
 ## Output
 
-- [Download Apk](https://drive.google.com/file/d/1112pdKlt-iDut5tL-RBxBGgEElmRpZpA/view?usp=drivesdk)
+- [Download Apk](https://www.mediafire.com/file/m9scxfsky93t1h8/Calculator.apk/file)
 
 ## Source Code
 
